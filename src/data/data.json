@@ -1,0 +1,24 @@
+{
+	"chargers": [
+		{
+			"name": "expressway charging - mariam enterprise",
+			"id": "a001",
+			"address": "connaught place, delhi",
+			"distance": "2102",
+			"distance_metrics": "metres",
+			"latitude": 21.2346521115,
+			"longitude": 81.6418502002,
+			"connector_types": ["lvl1dc-2", "lvl2dc-1", "normalac-1"]
+		},
+		{
+			"name": "expressway charging - mariam enterprise",
+			"id": "a002",
+			"address": "connaught place, raipur",
+			"distance": "2102",
+			"distance_metrics": "metres",
+			"latitude": 21.2331543553,
+			"longitude": 81.6393126836,
+			"connector_types": ["lvl1dc-2", "lvl2dc-1", "normalac-1"]
+		}
+	]
+}
